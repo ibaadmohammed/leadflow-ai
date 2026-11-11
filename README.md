@@ -1,4 +1,4 @@
-# LeadFlow AI
+# LeadFlow AI(**Internship Project**)
 
 A lightweight CRM for capturing leads, tracking sales stages and organizing follow-ups.
 
